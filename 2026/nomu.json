@@ -4,7 +4,7 @@
   "description": "Intermittent fasting timer with 16:8, 18:6, 20:4, OMAD and extended fasts up to 72 hours, plus an Apple Watch app",
   "category": "lifestyle",
   "platforms": ["ios", "watch", "android"],
-  "deal": "57% off the first year of Yearly ($12.99), Lifetime $29.99 (reg. $49.99), no code needed",
+  "deal": "New subscribers: Yearly 1st year $12.99 (57% off), Lifetime $29.99 (reg. $49.99), no code",
   "pricing": "subscription",
   "price": { "regular": 29.99, "sale": 12.99, "currency": "USD" },
   "discount": 57,

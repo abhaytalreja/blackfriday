@@ -4,7 +4,7 @@
   "description": "AI calorie tracker: snap a photo of any meal for calories, protein, carbs and fat, with goals that adjust to your progress",
   "category": "lifestyle",
   "platforms": ["ios", "android"],
-  "deal": "60% off the first year of Yearly ($19.99), Lifetime $79 (reg. $99), no code needed",
+  "deal": "New subscribers: first year of Yearly $19.99 (60% off), Lifetime $79 (reg. $99), no code",
   "pricing": "subscription",
   "price": { "regular": 49.99, "sale": 19.99, "currency": "USD" },
   "discount": 60,

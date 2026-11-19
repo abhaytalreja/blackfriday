@@ -1,0 +1,14 @@
+{
+  "name": "Nutrify",
+  "url": "https://nutrifytracker.com",
+  "description": "AI calorie tracker: snap a photo of any meal for calories, protein, carbs and fat, with goals that adjust to your progress",
+  "category": "lifestyle",
+  "platforms": ["ios", "android"],
+  "deal": "60% off the first year of Yearly ($19.99), Lifetime $79 (reg. $99), no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 19.99, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/25/dc/f325dc52-f72e-c374-57da-866e6cac6a86/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+}

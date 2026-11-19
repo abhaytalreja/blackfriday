@@ -1,0 +1,14 @@
+{
+  "name": "Nomu",
+  "url": "https://www.tappect.com/apps/nomu",
+  "description": "Intermittent fasting timer with 16:8, 18:6, 20:4, OMAD and extended fasts up to 72 hours, plus an Apple Watch app",
+  "category": "lifestyle",
+  "platforms": ["ios", "watch", "android"],
+  "deal": "57% off the first year of Yearly ($12.99), Lifetime $29.99 (reg. $49.99), no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 29.99, "sale": 12.99, "currency": "USD" },
+  "discount": 57,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/e9/64/29e9649b-4f10-f9ad-1aa6-58242a8c8e7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+}

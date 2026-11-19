@@ -1,6 +1,6 @@
 {
   "name": "Nutrify",
-  "url": "https://nutrifytracker.com",
+  "url": "https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=indiegoodies&medium=deal_list",
   "description": "AI calorie tracker: snap a photo of any meal for calories, protein, carbs and fat, with goals that adjust to your progress",
   "category": "lifestyle",
   "platforms": ["ios", "android"],
